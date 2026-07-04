@@ -1,1 +1,39 @@
-# flower
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>花畑の朝</title>
+</head>
+<body>
+
+<div style="position: relative; width: 480px; height:370px;">
+
+<img src="./bg0.png" style="position:absolute; left:0; top:0;">
+<img src="./butterfly.gif" style="
+   position: absolute;
+   left: 150px;
+   top: 400px;
+   width: 70px;">
+
+<img src="./butterfly.gif" style="
+   position: absolute;
+   left: 400px;
+   top: 350px;
+   width: 70px;">
+
+<img src="./butterfly.gif" style="
+   position: absolute;
+   left: 600px;
+   top: 440px;
+   width: 70px;">
+
+<h1 style="
+position: absolute;
+   left:20px;top:40px;font-size:20px;
+   background-color:rgba(255,255,255,0.50);
+   color:rgba(255,20,20,1);">ぽかぽか陽気の穏やかな朝<br>花畑では、蝶々がのんびりと飛んでいます
+   </h1>
+
+</div>
+</body>
+</html>
